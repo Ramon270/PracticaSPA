@@ -1,0 +1,48 @@
+body
+{
+    background-color:tan;
+}
+
+.container
+{
+    position: relative;
+    left: 500px;
+    top: 100px;
+}
+
+.container form input
+{
+    display: block;
+    margin-top: 10px;
+    padding: 5px 10px;
+    width: 150px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+.container form label
+{
+    display: block;
+    margin-top: 10px;
+    font-size: 30px;
+}
+
+#btnLog
+{
+    font-size: 20px;
+    padding: 10px 20px;
+    margin-top: 15px;
+}
+
+.container form .error
+{
+    color:red;
+    font-size: 20px;
+}
+
+.container form .correct
+{
+    color:green;
+    font-size: 30px;
+    padding: 10px;
+}

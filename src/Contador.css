@@ -1,0 +1,27 @@
+.button-container 
+{
+    position: relative;
+    left: 200px;
+    top: 200px;
+}
+
+.button-container #btn-click
+{
+    background-color: khaki;
+    text-align: center;
+    padding: 20px;
+    font-size: 25px;
+}
+
+.text-container
+{
+    position: relative;
+    left: 450px;
+    top: 40px;
+}
+
+.text-container #number
+{
+    color: lightseagreen;
+    font-size: 80px;
+}
